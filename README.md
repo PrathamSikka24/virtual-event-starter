@@ -29,10 +29,12 @@ Our application utilizes Redis for caching frequently accessed data, optimizing 
 [React.js](https://react.dev/):The library for web and native user interfaces. Our virtual event platform's client-side interface is built using React.js, enabling the creation of dynamic and interactive user interfaces.
 
  ### High Level Design
+ ---
 
 ![High Level Design of a Virtual Event Starter](https://github.com/PrathamSikka24/virtual-event-starter/assets/116445216/b7a435d6-df38-4d92-99b5-c91a4d8c4374)
 
 ### Working
+---
 <br>1. **User Interaction**
 Users interact with the application by accessing the frontend, which is built using Next.js.<br><br>
 2. **Frontend Communication**
